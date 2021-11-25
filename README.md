@@ -7,3 +7,5 @@ Problems targeted:
 - Left engine shuts down while fuel still onboard
 
 Apart from that, try to replicate the original´s tank/pump/fuel line layout.
+
+# ALERT: the flight_model.cfg file contained here leads to a sim CTD!!! DON´T USE AS IS!!!
